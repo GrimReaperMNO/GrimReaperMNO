@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm just ordinary man, eating rice in daily 👋
 
 <!--
 **GrimReaperMNO/GrimReaperMNO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
